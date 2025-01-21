@@ -1,0 +1,16 @@
+//FIRST CLASS
+
+Transaction mgmt sys
+problem statement is in phone ss
+
+// SECOND CLASS
+
+Abstraction
+    1.Think of it as permission management, also simplifying the usage of program.
+        //(let's say, abstract class is automobile and regular classes be Car, Bike, Truck)
+
+    2.Abstract classes can't contain common members but regular class can...
+    3.Cannot create object of abstract class (let's say, abstract class is automobile and regular classes be Car, Bike, Truck).
+    4.Abstract class members are undefined.
+
+Java collection framework
